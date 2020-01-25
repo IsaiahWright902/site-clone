@@ -1,0 +1,79 @@
+*{
+  outline: 1px red;
+}
+
+.bgimg{
+  background-image: url(./backround-color-grain-background.jpg);
+}
+
+body{
+  text-align: center;
+  justify-content: center;
+}
+
+.smaller{
+  height: 300px;
+  width: 300px;
+}
+
+.padding{
+  padding-bottom: 4em;
+    padding-top: 6em;
+}
+
+.morepadding{
+  padding-top: 6em;
+}
+
+.buttonfix{
+  width: 20em;
+}
+
+.navbarfix{
+  justify-content: flex-end;
+}
+.bg{
+  background-color: yellow ;
+}
+
+.cardfix{
+  display: table-footer-group;
+}
+
+.absolute{
+  position: absolute;
+}
+
+.btfix{
+  left: 10.5em;
+}
+
+.slide{
+  top: 6em;
+}
+.pad{
+  padding-top: 2em;
+}
+
+.line{
+height:  5px;
+background-color: black;
+}
+
+.seperate{
+  padding-top: 6em;
+}
+.bdr{
+  border: black;
+}
+.blu{
+  background-color: blue;
+}
+.txtspace{
+  padding-top: 12em;
+}
+
+.tall{
+  height: 4em
+  ;
+}
